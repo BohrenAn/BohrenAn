@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, i'm Andres Bohren 👋
 
-<!--
-**BohrenAn/BohrenAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud Architect working in the beautiful City of Bern Switzerland.
 
-Here are some ideas to get you started:
+My Passion is Information Technology and Security all around the Microsoft Ecosystem, especially the Cloud (M365 / Azure).
+I'm an Exchange and Microsoft Teams Expert and like to work with Exchange Online, MDO 365, Microsoft Teams, Active Directory, AAD Connect, Azure AD and Security.
+Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a lot of helpful PowerShell Scripts. Some of them are published at my GitHub Repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also published a PowerShell Module to make it more easy to analyze Spam Mails in Exchange Online [Icewolf.EXO.SpamAnalyze in PSGallery](https://www.powershellgallery.com/packages/Icewolf.EXO.SpamAnalyze).
+And a Script to Analyze mostly Mailrelated Security Settings [Get-Mailprotection](https://www.powershellgallery.com/packages/Get-Mailprotection)
+
+🌱 I’ve blogged here for over 10 years https://blog.icewolf.ch
+💬 I’m on Twitter https://twitter.com/andresbohren
+💬 I’m on LinkedIn https://www.linkedin.com/in/andres-bohren-4ba45293/
+💬 I’m on XING https://www.xing.com/profile/Andres_Bohren/cv
