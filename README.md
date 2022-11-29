@@ -10,6 +10,9 @@ Also published a PowerShell Module to make it more easy to analyze Spam Mails in
 And a Script to Analyze mostly Mailrelated Security Settings [Get-Mailprotection](https://www.powershellgallery.com/packages/Get-Mailprotection)
 
 🌱 I’ve blogged here for over 10 years https://blog.icewolf.ch
+
 💬 I’m on Twitter https://twitter.com/andresbohren
+
 💬 I’m on LinkedIn https://www.linkedin.com/in/andres-bohren-4ba45293/
+
 💬 I’m on XING https://www.xing.com/profile/Andres_Bohren/cv
