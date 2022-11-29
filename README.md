@@ -1,6 +1,6 @@
 ### Hi, i'm Andres Bohren 👋
 
-I am a Cloud Architect working in the beautiful City of Bern Switzerland.
+I am a Cloud Architect working in the beautiful City of Bern Switzerland 🇨🇭
 
 My Passion is Information Technology and Security all around the Microsoft Ecosystem, especially the Cloud (M365 / Azure).
 I'm an Exchange and Microsoft Teams Expert and like to work with Exchange Online, MDO 365, Microsoft Teams, Active Directory, AAD Connect, Azure AD and Security.
