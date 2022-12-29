@@ -7,7 +7,9 @@ I'm an Exchange and Microsoft Teams Expert and like to work with Exchange Online
 Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a lot of helpful PowerShell Scripts. Some of them are published at my GitHub Repo.
 
 - Published a PowerShell Module to make it more easy to analyze Spam Mails in Exchange Online [Icewolf.EXO.SpamAnalyze in PSGallery](https://www.powershellgallery.com/packages/Icewolf.EXO.SpamAnalyze).
+- Published a PowerShell Module to simplify Exchange / Exchange Online MAPI Permissions [Icewolf.Exchange.MAPI in PSGallery](https://www.powershellgallery.com/packages/Icewolf.Exchange.MAPI/)
 - Published a Script to Analyze mostly Mailrelated Security Settings [Get-Mailprotection](https://www.powershellgallery.com/packages/Get-Mailprotection)
+
 
 🌱 I’ve blogged for over 13 years https://blog.icewolf.ch
 
