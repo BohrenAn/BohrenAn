@@ -11,7 +11,7 @@ Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a l
 - Published a Script to Analyze mostly Mailrelated Security Settings [Get-Mailprotection](https://www.powershellgallery.com/packages/Get-Mailprotection)
 
 
-🌱 I’ve blogged for over 13 years https://blog.icewolf.ch
+🌱 I’ve started blogging in 2007 https://blog.icewolf.ch
 
 💬 I’m on Twitter https://twitter.com/andresbohren
 
