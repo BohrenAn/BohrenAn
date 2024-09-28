@@ -13,7 +13,7 @@ Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a l
 
 
 🌱 I’ve started blogging in 2007 https://blog.icewolf.ch
-💬 I’m on LinkedIn https://www.linkedin.com/in/andres-bohren-4ba45293/
-💬 I’m on Twitter https://twitter.com/andresbohren
-💬 I am on Bluesky https://bsky.app/profile/andresbohren.bsky.social
-💬 I’m on XING https://www.xing.com/profile/Andres_Bohren/cv
+- 💬 I’m on LinkedIn https://www.linkedin.com/in/andres-bohren-4ba45293/
+- 💬 I’m on Twitter https://twitter.com/andresbohren
+- 💬 I am on Bluesky https://bsky.app/profile/andresbohren.bsky.social
+- 💬 I’m on XING https://www.xing.com/profile/Andres_Bohren/cv
