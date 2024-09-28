@@ -3,7 +3,7 @@
 I am a Cloud Architect working in the beautiful City of Bern Switzerland
 
 My Passion is Information Technology and Security all around the Microsoft Ecosystem, especially the Cloud (M365 / Azure).
-I'm an Exchange and Microsoft Teams Expert and like to work with Exchange Online, MDO 365, Microsoft Teams, Active Directory, Entra Connect, Entra ID and Security.
+I'm an Exchange and Microsoft Teams Expert and like to work with Exchange Online, Microsoft Defender for Office 365, Microsoft Teams, Active Directory, Entra Connect, Entra ID and Security.
 Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a lot of helpful PowerShell Scripts. Some of them are published at my GitHub Repo.
 
 - Published a PowerShell Module to keep the needed Modules for M365 Administration up to date [M365PSProfile](https://www.powershellgallery.com/packages/M365PSProfile).
@@ -13,9 +13,7 @@ Became a PowerShell Enthusiast back in the Exchange 2007/2010 days and wrote a l
 
 
 🌱 I’ve started blogging in 2007 https://blog.icewolf.ch
-
-💬 I’m on Twitter https://twitter.com/andresbohren
-
 💬 I’m on LinkedIn https://www.linkedin.com/in/andres-bohren-4ba45293/
-
+💬 I’m on Twitter https://twitter.com/andresbohren
+💬 I am on Bluesky https://bsky.app/profile/andresbohren.bsky.social
 💬 I’m on XING https://www.xing.com/profile/Andres_Bohren/cv
